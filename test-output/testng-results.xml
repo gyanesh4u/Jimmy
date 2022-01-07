@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7517" started-at="2022-01-07T07:35:03Z" finished-at="2022-01-07T07:35:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7517" started-at="2022-01-07T07:35:03Z" finished-at="2022-01-07T07:35:10Z">
+      <class name="com.qa.jimmy.demo.Demo3">
+        <test-method status="PASS" signature="screenshotTest()[pri:0, instance:com.qa.jimmy.demo.Demo3@17c386de]" name="screenshotTest" duration-ms="7492" started-at="2022-01-07T07:35:03Z" finished-at="2022-01-07T07:35:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotTest -->
+      </class> <!-- com.qa.jimmy.demo.Demo3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
