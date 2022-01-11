@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="testNgTutorial.ListenerTestngTest">
+        <methods>
+          <include name="testToSkip"/>
+          <include name="testToFail"/>
+        </methods>
+      </class> <!-- testNgTutorial.ListenerTestngTest -->
+      <class name="testNgTutorial.ParameterizedTest">
+        <methods>
+          <include name="paramerizedTest"/>
+        </methods>
+      </class> <!-- testNgTutorial.ParameterizedTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
